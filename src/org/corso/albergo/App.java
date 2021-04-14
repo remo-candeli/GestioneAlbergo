@@ -54,5 +54,7 @@ public class App {
             System.out.println("disdetta "+prenotazione.getIdPrenotazione()
                     + " eseguita per il cliente " + prenotazione.getCliente().getCognome()
                     + " stanza "+ prenotazione.getCamera().getNrCamera());
+                    
+                    
     }
 }
